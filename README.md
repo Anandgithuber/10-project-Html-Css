@@ -2,7 +2,7 @@
 
 ∎ Project 1 - Tribute Website
 
-∎ Project 2 - Job Application 
+∎ Project 2 - Job Application Form
 
 ∎ Project 3 - Parallax Website
 
