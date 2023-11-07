@@ -1,4 +1,4 @@
-**HTML CSS 10-PROJECT**
+**HTML CSS PROJECTS**
 
 ∎ Project 1 - Tribute Website
 
